@@ -1,0 +1,7 @@
+﻿site,frequency,q_value
+Breast,0.38,2.53E-16
+Liver,0.39,0.00000331
+Cervix,0.25,0.0000856
+Lung,0.48,0.00101
+Uterus,0.57,0.0216
+Brain,0.12,0.0437
